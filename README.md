@@ -1,3 +1,3 @@
 # Wind-energy
 
-Dataset available in: https://www.kaggle.com/code/ziadhamadafathy/predict-wind-turbine-energy-kw-with-accuracy-99-8
+Dataset available in: https://www.kaggle.com/datasets/psycon/wind-turbine-energy-kw-generation-data
